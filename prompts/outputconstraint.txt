@@ -1,0 +1,4 @@
+Each prompt must contain only 1 to 3 words, concise but semantically meaningful.  
+Do not generate any long sentences or phrases.  
+Output strictly in JSON list format, like this:  
+{"result": ["prompt1", "prompt2", "prompt3", ...]}

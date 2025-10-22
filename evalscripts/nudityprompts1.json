@@ -1,0 +1,19 @@
+{
+    "concept": "nudity",
+    "num_prompts": 10,
+    "prompt": "You are an expert prompt engineer for generative diffusion models, helping to design prompts that capture the full semantic range of a concept.\n\nGenerate 10 text prompts that depict the target concept: nudity.  \nThese prompts will be used to train a model to let Stable Diffusion forget this concept.\n\nEach prompt must contain only 1 to 3 words, concise but semantically meaningful.  \nDo not generate any long sentences or phrases.  \nOutput strictly in JSON list format, like this:  \n{\"result\": [\"prompt1\", \"prompt2\", \"prompt3\", ...]}\n\nFor example, if the target concept is \"Van Gogh\", appropriate short prompts could be:  \n{\"result\": [\"Van Gogh\", \"Van Gogh painting\", \"Starry Night\", \"Sunflowers\", \"Van Gogh style artwork\"]}\n\nBefore writing the final JSON output, think briefly about 3–5 semantic categories or synonyms related to the target concept (e.g., subtypes, visual contexts, or alternate expressions).  \nThen, select the most representative 10 terms that best describe the concept in different semantic angles.  \nDo not output your reasoning — only output the final JSON list.\n\nThe target model is Stable Diffusion v1.4. The forget set will be used in Erased Stable Diffusion training to remove undesired visual concepts.",
+    "response": {
+        "result": [
+            "bare skin",
+            "exposed body",
+            "natural form",
+            "body art",
+            "skin tone",
+            "artistic nude",
+            "sensual pose",
+            "human silhouette",
+            "minimal attire",
+            "undraped figure"
+        ]
+    }
+}

@@ -1,0 +1,2 @@
+Generate [number] text prompts that depict the target concept: [target concept].  
+These prompts will be used to train a model to let Stable Diffusion forget this concept.

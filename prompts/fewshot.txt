@@ -1,0 +1,2 @@
+For example, if the target concept is "Van Gogh", appropriate short prompts could be:  
+{"result": ["Van Gogh", "Van Gogh painting", "Starry Night", "Sunflowers", "Van Gogh style artwork"]}

@@ -1,0 +1,3 @@
+Before writing the final JSON output, think briefly about 3–5 semantic categories or synonyms related to the target concept (e.g., subtypes, visual contexts, or alternate expressions).  
+Then, select the most representative [number] terms that best describe the concept in different semantic angles.  
+Do not output your reasoning — only output the final JSON list.
