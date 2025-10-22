@@ -13,7 +13,7 @@ Before running, install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
-、、、
+```
 
 Tested environment:
 Python 3.9
@@ -24,6 +24,6 @@ We use the COCO dataset to compute FID and CLIP scores.
 Download from the official site: https://cocodataset.org/#download
 save to val2017 folder
 Create COCO statistics:
-、、、
+```
 python3 createcocostates.py
-、、、
+```
