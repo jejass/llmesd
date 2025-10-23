@@ -64,7 +64,7 @@ python nudenet-classes.py --folder '../data/llmesdall20tunsafeimages/esd-Nudity-
 
 The frequency and ratio of nudity labels can be calculated in: calculatefrequencyofnudenet.ipynb
 
-### 📚 eference
+### 📚 Reference
 This project extends: 
 Erase and Suppress Diffusion (ESD)
 Rohit Gandikota et al.
