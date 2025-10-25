@@ -1,4 +1,6 @@
-# LLME-ESD: Concept Unlearning with LLM-Enhanced Prompts
+# Concept Unlearning for Diffusion Models via ESD with LLM-Guided Concept Expansion 
+
+**LLME-ESD: Concept Unlearning with LLM-Enhanced Prompts**
 
 This project extends the [ESD (Erase and Suppress Diffusion)](https://github.com/rohitgandikota/erasing) framework.  
 ESD is a framework for **concept unlearning** in **Stable Diffusion** models.  
